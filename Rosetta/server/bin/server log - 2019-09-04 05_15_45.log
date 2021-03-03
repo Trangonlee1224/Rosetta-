@@ -1,0 +1,2198 @@
+2019-09-04 05:16:59 - send {"type":"register-receipt", "username":"pv", "status":0}
+
+2019-09-04 05:17:16 - send {"type":"register-receipt", "username":"ljl", "status":1}
+
+2019-09-04 05:17:34 - send {"type":"login-receipt","status":1,"username":"ljl","image":0}
+
+2019-09-04 05:17:35 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:17:35 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:17:47 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:17:57 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:18:12 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:18:22 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:18:37 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:18:47 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:19:02 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:19:12 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:19:27 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:19:37 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:19:52 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:20:02 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:20:17 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:20:27 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:20:42 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:20:48 - send {"type":"register-receipt", "username":"tonyhang", "status":1}
+
+2019-09-04 05:20:52 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:00 - send {"type":"login-receipt","status":1,"username":"tonyhang","image":0}
+
+2019-09-04 05:21:01 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:01 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:07 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:08 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:17 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:23 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:32 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:33 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:35 - send {"type":"register-receipt", "username":"laoli", "status":1}
+
+2019-09-04 05:21:42 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:42 - send {"type":"login-receipt","status":1,"username":"laoli","image":0}
+
+2019-09-04 05:21:43 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:43 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:47 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:48 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:57 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:21:58 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:01 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"ljl",
+	"contact":	"tonyhang",
+	"status":	1
+}
+
+2019-09-04 05:22:02 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:02 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:07 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:12 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"tonyhang",
+	"contact":	"ljl",
+	"status":	1
+}
+
+2019-09-04 05:22:12 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:13 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:13 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:21 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"laoli",
+	"contact":	"ljl",
+	"status":	1
+}
+
+2019-09-04 05:22:22 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:22 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:23 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:27 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:31 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"tonyhang",
+	"contact":	"ll",
+	"status":	0
+}
+
+2019-09-04 05:22:32 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:32 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:37 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:38 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:39 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"tonyhang",
+	"contact":	"laoli",
+	"status":	1
+}
+
+2019-09-04 05:22:40 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:42 - send {"type":"friend-image-receipt","image":0,"sendto":"laoli","sendfrom":"tonyhang"}
+
+2019-09-04 05:22:47 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:48 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:22:52 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:22:56 - send {
+	"type":	"message/text",
+	"sendto":	"laoli",
+	"sendfrom":	"tonyhang",
+	"sendtime":	"2019-09-04 05:22:56",
+	"content":	"hello"
+}
+
+2019-09-04 05:22:57 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:02 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:03 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:12 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:13 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:13 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"laoli",
+	"contact":	"tonyhang",
+	"status":	1
+}
+
+2019-09-04 05:23:14 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:15 - send {"type":"friend-image-receipt","image":0,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:23:17 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:22 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:25 - send {
+	"type":	"message/text",
+	"sendto":	"laoli",
+	"sendfrom":	"tonyhang",
+	"sendtime":	"2019-09-04 05:23:24",
+	"content":	"/dk"
+}
+
+2019-09-04 05:23:27 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:28 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:37 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:38 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:42 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:47 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:51 - send {"type":"friend-image-receipt","image":3,"sendto":"ljl","sendfrom":"laoli"}
+
+2019-09-04 05:23:52 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:23:53 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:23:53 - send {"type":"friend-image-receipt","image":2,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:23:56 - send {"type":"friend-image-receipt","image":3,"sendto":"ljl","sendfrom":"laoli"}
+
+2019-09-04 05:23:58 - send {"type":"friend-image-receipt","image":2,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:23:58 - send {"type":"friend-image-receipt","image":3,"sendto":"ljl","sendfrom":"laoli"}
+
+2019-09-04 05:23:59 - send {"type":"friend-image-receipt","image":2,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:24:02 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:03 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:24:07 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:10 - send {	"type":"group-create-receipt",	"status":1,	"groupID":8}
+
+2019-09-04 05:24:10 - send {
+	"type":	"group-join-receipt",
+	"username":	"laoli",
+	"groupID":	8,
+	"status":	1
+}
+
+2019-09-04 05:24:12 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2019-09-04 05:24:17 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:18 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:19 - send {
+	"type":	"group-profile",
+	"member-count":	1,
+	"groupID":	8,
+	"list":	[{
+			"username":	"laoli"
+		}]
+}
+
+2019-09-04 05:24:27 - send {
+	"type":	"group-join-receipt",
+	"username":	"tonyhang",
+	"groupID":	8,
+	"status":	1
+}
+
+2019-09-04 05:24:27 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:28 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:28 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:29 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	8,
+	"list":	[{
+			"username":	"laoli"
+		}, {
+			"username":	"tonyhang"
+		}]
+}
+
+2019-09-04 05:24:32 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:37 - send {
+	"type":	"group-join-receipt",
+	"username":	"ljl",
+	"groupID":	8,
+	"status":	1
+}
+
+2019-09-04 05:24:37 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:38 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:39 - send {
+	"type":	"group-profile",
+	"member-count":	3,
+	"groupID":	8,
+	"list":	[{
+			"username":	"laoli"
+		}, {
+			"username":	"tonyhang"
+		}, {
+			"username":	"ljl"
+		}]
+}
+
+2019-09-04 05:24:42 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:43 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:47 - send {
+	"type":	"group-profile",
+	"member-count":	3,
+	"groupID":	8,
+	"list":	[{
+			"username":	"laoli"
+		}, {
+			"username":	"tonyhang"
+		}, {
+			"username":	"ljl"
+		}]
+}
+
+2019-09-04 05:24:52 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:24:53 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:24:55 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:24:54",
+	"content":	"大家好",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:24:55 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:24:54",
+	"content":	"大家好",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:24:55 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:24:54",
+	"content":	"大家好",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:24:57 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:02 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:03 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"ljl",
+	"sendtime":	"2019-09-04 05:25:02",
+	"content":	"/dk",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:03 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"ljl",
+	"sendtime":	"2019-09-04 05:25:02",
+	"content":	"/dk",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:03 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"ljl",
+	"sendtime":	"2019-09-04 05:25:02",
+	"content":	"/dk",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:07 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:08 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:17 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:18 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:22 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:27 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:31 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:25:31",
+	"content":	"改了字体",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:31 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:25:31",
+	"content":	"改了字体",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:31 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:25:31",
+	"content":	"改了字体",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:32 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:33 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:42 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:43 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:45 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:25:44",
+	"content":	"大了一点",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:45 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:25:44",
+	"content":	"大了一点",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:45 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:25:44",
+	"content":	"大了一点",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:25:47 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:25:52 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:57 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:25:58 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:05 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:26:04",
+	"content":	"斜体加粗",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:26:05 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:26:04",
+	"content":	"斜体加粗",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:26:05 - send {
+	"type":	"message/text/group",
+	"sendto":	8,
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:26:04",
+	"content":	"斜体加粗",
+	"msgID":	"segmentfault"
+}
+
+2019-09-04 05:26:07 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:08 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:26:12 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:17 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:26:22 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:26:23 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:23 - send {
+	"type":	"return-message-filetransform",
+	"Ipfd":	"0.0.0.0",
+	"sendto":	"tonyhang",
+	"sendfrom":	"tonyhang",
+	"content":	"/home/new/123.txt"
+}
+
+2019-09-04 05:26:32 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:33 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:26:37 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:39 - send {
+	"type":	"return-message-filetransform",
+	"Ipfd":	"0.0.0.0",
+	"sendto":	"laoli",
+	"sendfrom":	"laoli",
+	"content":	"/home/new/123.txt"
+}
+
+2019-09-04 05:26:42 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:26:47 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:26:48 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:57 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:26:58 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:02 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:07 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:12 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:13 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:22 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:23 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:27 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:32 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:37 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:38 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:47 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:48 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:27:52 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:27:57 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:02 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:03 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:12 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:13 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:17 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:22 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:27 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:28 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:37 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:38 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:42 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:47 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:52 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:28:53 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:28:56 - send {"type":"friend-image-receipt","image":3,"sendto":"ljl","sendfrom":"laoli"}
+
+2019-09-04 05:29:01 - send {"type":"friend-image-receipt","image":2,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:29:02 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:03 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:07 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:12 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:17 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:18 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:27 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:28 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:32 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:37 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:42 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:43 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:52 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:29:53 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:29:57 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:02 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:07 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:08 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:17 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:18 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:22 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:27 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:32 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:33 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:42 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:43 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:47 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:30:52 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:56 - send {"type":"friend-image-receipt","image":2,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:30:56 - send {"type":"friend-image-receipt","image":2,"sendto":"tonyhang","sendfrom":"laoli"}
+
+2019-09-04 05:30:57 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:30:57 - send {"type":"friend-image-receipt","image":0,"sendto":"laoli","sendfrom":"tonyhang"}
+
+2019-09-04 05:30:58 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:07 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:08 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:31:12 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:17 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:31:22 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:31:23 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:25 - send {
+	"type":	"message/text",
+	"sendto":	"tonyhang",
+	"sendfrom":	"laoli",
+	"sendtime":	"2019-09-04 05:31:24",
+	"content":	"我是老李\n"
+}
+
+2019-09-04 05:31:32 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:33 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:31:37 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:42 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:31:47 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:31:48 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:57 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:31:58 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:02 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:07 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:12 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:13 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:22 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:23 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:27 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:32 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:37 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:38 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:47 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:48 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:52 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:32:57 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:32:57 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"laoli",
+	"contact":	"",
+	"status":	0
+}
+
+2019-09-04 05:32:58 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"tonyhang",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:33:02 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:33:03 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"ljl",
+			"status":	1
+		}, {
+			"username":	"laoli",
+			"status":	1
+		}]
+}
+
+2019-09-04 05:33:12 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	0
+		}]
+}
+
+2019-09-04 05:33:22 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:33:37 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	0
+		}]
+}
+
+2019-09-04 05:33:47 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:34:02 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	0
+		}]
+}
+
+2019-09-04 05:34:12 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:34:13 - send {"type":"register-receipt", "username":"pv", "status":0}
+
+2019-09-04 05:34:27 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	0
+		}]
+}
+
+2019-09-04 05:34:37 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:34:52 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	0
+		}]
+}
+
+2019-09-04 05:35:02 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:35:17 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tonyhang",
+			"status":	0
+		}]
+}
+
+2019-09-04 05:35:27 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	8
+		}]
+}
+
+2019-09-04 05:35:42 - send {
+	"type":	"friend-list",
+	"s
